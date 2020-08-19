@@ -1,0 +1,7 @@
+{
+  "name": "my-badass-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
